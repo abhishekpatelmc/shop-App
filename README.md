@@ -4,6 +4,9 @@ where users can add pridcuts and also buy products.
 
 A new Flutter project.
 
+<img src="img/sample1.png" width="220">       <img src="img/sample2.png" width="220">
+<img src="img/sample3.png" width="220">       <img src="img/sample4.png" width="220">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
