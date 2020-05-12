@@ -2,8 +2,6 @@
 This app is a small example of shopping webiste 
 where users can add pridcuts and also buy products.
 
-A new Flutter project.
-
 <img src="img/sample1.png" width="220">       <img src="img/sample2.png" width="220">
 <img src="img/sample3.png" width="220">       <img src="img/sample4.png" width="220">
 
